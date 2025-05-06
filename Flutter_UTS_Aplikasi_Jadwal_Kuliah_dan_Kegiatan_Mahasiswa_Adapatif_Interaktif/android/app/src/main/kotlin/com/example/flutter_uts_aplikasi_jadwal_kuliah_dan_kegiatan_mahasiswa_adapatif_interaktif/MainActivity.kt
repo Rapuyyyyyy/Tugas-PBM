@@ -1,0 +1,5 @@
+package com.example.flutter_uts_aplikasi_jadwal_kuliah_dan_kegiatan_mahasiswa_adapatif_interaktif
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
