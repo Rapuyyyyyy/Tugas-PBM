@@ -88,11 +88,11 @@ class _InteractiveScenePageState extends State<InteractiveScenePage> {
                     color: Colors.white,
                     borderRadius: BorderRadius.circular(10),
                   ),
-                  child: const Text("Aku harus buka peti itu!", style: TextStyle(color: Colors.black)),
+                  child: const Text("Aku harus buka box itu!", style: TextStyle(color: Colors.black)),
                 ),
               ),
 
-            // Peti (Long Press)
+            // Box (Long Press)
             Positioned(
               key: _chestKey,
               bottom: 50,
