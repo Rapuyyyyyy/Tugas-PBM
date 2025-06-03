@@ -17,43 +17,43 @@ Aplikasi ini merupakan *Habit Tracker Mini* yang memungkinkan pengguna untuk men
 ### Interaksi Tambah/Edit Habit
 #### Tombol tambah habit
   ![tombol_plus](assets/images/tombol_plus.png)
-- Form isi habit
+#### Form isi habit
   ![isi_form](assets/images/isi_form.png)
-- Form kosong (validasi error)
+#### Form kosong (validasi error)
   ![tanpa_nama](assets/images/tanpa_nama.png)
-- Hasil setelah edit habit
+#### Hasil setelah edit habit
   ![hasil_edit_form](assets/images/hasil_edit_form.png)
-- Edit habit dialog
+#### Edit habit dialog
   ![edit_habit](assets/images/edit_habit.png)
 
 ### Penghapusan Habit
-- Ikon tiga titik untuk opsi habit
+#### Ikon tiga titik untuk opsi habit
   ![titik_tiga](assets/images/titik_tiga.png)
-- Dialog konfirmasi hapus
+#### Dialog konfirmasi hapus
   ![dialog_hapus](assets/images/dialog_hapus.png)
-- Tampilan setelah habit dihapus
+#### Tampilan setelah habit dihapus
   ![setelah_dihapus](assets/images/setelah_dihapus.png)
 
 ### Fitur Checkbox & Reset
-- Uji coba centang habit (strikethrough)
+#### Uji coba centang habit (strikethrough)
   ![uji_strikethrough](assets/images/uji_strikethrough.png)
-- Progres bar kebiasaan yang sudah dilakukan
+#### Progres bar kebiasaan yang sudah dilakukan
   ![uji_progres_bar](assets/images/uji_progres_bar.png)
-- Reset checkbox
+#### Reset checkbox
   ![uji_reset](assets/images/uji_reset.png)
 
 ### Debugging Console Output
-- Debug saat menambahkan habit
+#### Debug saat menambahkan habit
   ![add_debug_console](assets/images/add_debug_console.png)
-- Debug saat mengedit habit
+#### Debug saat mengedit habit
   ![edit_debug_console](assets/images/edit_debug_console.png)
-- Debug saat menghapus habit
+#### Debug saat menghapus habit
   ![delete_debug_console](assets/images/delete_debug_console.png)
-- Debug pengecekan kondisi tertentu
+#### Debug pengecekan kondisi tertentu
   ![check_debug_console](assets/images/check_debug_console.png)
 
 ### Uji State & Efek UI
-- Efek ephemeral state
+#### Efek ephemeral state
   ![uji_ephemeral_state](assets/images/uji_ephemeral_state.png)
 
 ## Penjelasan Program:
