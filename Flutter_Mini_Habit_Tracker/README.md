@@ -11,11 +11,11 @@ Aplikasi ini merupakan *Habit Tracker Mini* yang memungkinkan pengguna untuk men
 
 ## Screenshot Emulator:
 ### Tampilan Umum
-# Halaman utama aplikasi
+#### Halaman utama aplikasi
   ![homepage](assets/images/homepage.png)
 
 ### Interaksi Tambah/Edit Habit
-# Tombol tambah habit
+#### Tombol tambah habit
   ![tombol_plus](assets/images/tombol_plus.png)
 - Form isi habit
   ![isi_form](assets/images/isi_form.png)
