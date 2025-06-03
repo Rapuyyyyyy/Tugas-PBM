@@ -28,19 +28,19 @@ flutter:
   assets:
     - assets/habits.json  
     - assets/images/homepage.png
+    - assets/images/uji_strikethrough.png
     - assets/images/tombol_plus.png
     - assets/images/isi_form.png
     - assets/images/tanpa_nama.png
+    - assets/images/titik_tiga.png
     - assets/images/hasil_edit_form.png
     - assets/images/edit_habit.png
-    - assets/images/titik_tiga.png
     - assets/images/dialog_hapus.png
     - assets/images/setelah_dihapus.png
-    - assets/images/uji_strikethrough.png
     - assets/images/uji_progres_bar.png
     - assets/images/uji_reset.png
+    - assets/images/uji_ephemeral_state.png
     - assets/images/add_debug_console.png
     - assets/images/edit_debug_console.png
     - assets/images/delete_debug_console.png
     - assets/images/check_debug_console.png
-    - assets/images/uji_ephemeral_state.png
