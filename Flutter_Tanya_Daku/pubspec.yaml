@@ -1,0 +1,35 @@
+name: flutter_tanya_daku
+description: "A new Flutter project."
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  audioplayers: ^6.5.0
+
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/ball1.png
+    - assets/images/ball2.png
+    - assets/images/ball3.png
+    - assets/images/ball4.png
+    - assets/images/ball5.png
+    - assets/images/tampilan_1.png
+    - assets/images/tampilan_2.png
+    - assets/images/tampilan_3.png
